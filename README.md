@@ -1,2 +1,3 @@
 # http-stress
-quick stress test
+
+Need to look at asynchronous execution. This is very linear but i guess it will refresh a browser 100 times...
